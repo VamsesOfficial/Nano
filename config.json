@@ -1,0 +1,17 @@
+{
+  "ownerNumber": ["6285738639969@s.whatsapp.net"],
+  "ownerName": ["Vamses"],
+  "botName": "Chonix",
+  "buttonName": "Youtube Official",
+  "buttonLink": "https://youtube.com/channel/UCy9sulTxXbhzmsaZ4QDLRqg",
+  "buttonName2": "Instagram",
+  "buttonLink2": "https://instagram.com/ktgakuma",
+  "sessionName": "session",
+  "pathimg": "./media/hitomi.jpg",
+  "gamewaktu": 60,
+  "limitCount": 10,
+  "gcount": {
+	"prem": 99999,
+	"user": 10
+  }
+}
